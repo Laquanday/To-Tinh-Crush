@@ -16,4 +16,4 @@ const CONFIG = {
     messDesc: 'Ting của em, đồng ý làm vợ em nhé?', 
     btnAccept: 'Anh đồng ý!',
     messLink: 'https://www.facebook.com/CuuTuyHuan/' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+}  
