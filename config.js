@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho em',
     reply: 'Vì em có sức hút đặc biệt',
     mess: 'Embi ết mà. Em cũng yêu anh.',
-    messDesc: 'Ting của em, đồng ý làm vợ em nhé?',
+    messDesc: 'Ting của em, đồng ý làm vợ em nhé?', 
     btnAccept: 'Anh đồng ý!',
     messLink: 'https://www.facebook.com/CuuTuyHuan/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
